@@ -1,5 +1,10 @@
 # Camera_App1-Array-Adapter-
 
+error:
+
+https://github.com/joeykiwi/Camera_App1-Array-Adapter-/blob/master/app/src/main/java/intracode/org/camera_app1/CameraActivity.java
+위에 링크에서 113줄에 setadapter function이 문제인거같습니다.
+
 우선 기본적인 프리뷰, 사진찍기, sd 카드의 저장하기는 무리없이 완료했는데,
 sd카드에 있는 사진 파일을 받아서 어댑터를 사용해서 ListView에 넣는 방식으로 하던중
 setAdapter function에서 자꾸 에러가 납니다. Adapter에 대해서 공부하고 간단하게 알게되었는데
